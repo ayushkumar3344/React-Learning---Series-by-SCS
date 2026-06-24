@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins",sans-serif;
+  transition: all 0.2s linear;
+}
+
+body{
+  margin: 30px;
+}
+
+.border{
+  border: 2px solid red;
+  width: fit-content;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+h1{
+  background-color: rgb(187, 187, 187);
+  width: fit-content;
+  font-size: 100px;
+  padding: 20px 70px;
+  margin-left: 40px;
+}
+
+button{
+  padding: 10px 20px;
+  margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
